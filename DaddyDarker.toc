@@ -1,7 +1,7 @@
 ## Interface: 80300
 ## Author: Crackpotx
 ## Title: For Daddy Darker
-## Version: 1.0.0
+## Version: 1.0.1
 ## Notes: Will invite guildies who type XX in raid.
 ## SavedVariables: DaddyDarkerDB
 
