@@ -1,0 +1,15 @@
+## Interface: 80300
+## Author: Crackpotx
+## Title: For Daddy Darker
+## Version: 1.0.0
+## Notes: Will invite guildies who type XX in raid.
+## SavedVariables: DaddyDarkerDB
+
+Libraries\LibStub\LibStub.lua
+Libraries\CallbackHandler-1.0\CallbackHandler-1.0.xml
+Libraries\AceAddon-3.0\AceAddon-3.0.xml
+Libraries\AceConsole-3.0\AceConsole-3.0.xml
+Libraries\AceDB-3.0\AceDB-3.0.xml
+Libraries\AceEvent-3.0\AceEvent-3.0.xml
+
+DaddyDarker.lua
